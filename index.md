@@ -14,4 +14,4 @@ Data is used solely to operate the app. We do not sell or share your data with t
 All data is transmitted over HTTPS (TLS encryption).
 
 ## Contact
-For questions or data deletion requests, email: [your-email@gmail.com]
+For questions or data deletion requests, email: [onestorefoundations@gmail.com]
